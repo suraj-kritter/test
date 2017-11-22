@@ -7,5 +7,6 @@ class pgm1
       
       System.out.println("hello world ");
      System.out.println("changes made");
-   }
+     System.out.println("changes made");   
+}
 }
