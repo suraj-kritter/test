@@ -1,5 +1,4 @@
-// changes
-
+//changes made
 
 import java.util.Scanner;
  
